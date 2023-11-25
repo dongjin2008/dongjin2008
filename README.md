@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm DongJin kim</h1>
 <h3 align="center">A passionate full stack developer from South Korea</h3>
 
-- 🔭 I’m currently working on [my portfolio](dongjinkim.vercel.app)
+- 🔭 I’m currently working on [whisperchat](https://whisperchat-zeta.vercel.app/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
