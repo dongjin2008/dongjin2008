@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm DongJin kim</h1>
 <h3 align="center">A passionate full stack developer from South Korea</h3>
 
-- 🔭 I’m currently working on [whisperchat](https://whisperchat-zeta.vercel.app/)
+- 🔭 I’m currently working on CodeCraft
+
+<a href="https://app.daily.dev/djakehihi"><img src="https://api.daily.dev/devcards/3aa7ad0bcd3142138bcd0d60ba8b5bdb.png?r=pzv" width="400" alt="DongJin Kim's Dev Card"/></a>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
